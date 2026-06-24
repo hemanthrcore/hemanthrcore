@@ -41,14 +41,16 @@ fun_fact: "I believe every dataset has a story — I just help it speak."
 
 <div align="center">
 
-### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+**Frameworks & Libraries**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -56,12 +58,14 @@ fun_fact: "I believe every dataset has a story — I just help it speak."
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### AI / ML
+**AI / ML**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Tools & Platforms
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -75,32 +79,24 @@ fun_fact: "I believe every dataset has a story — I just help it speak."
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | 🏷️ Project | 📝 Description | 🔧 Tech |
 |:---:|:---|:---:|
-| [**🤖 Bemo-V1**](https://github.com/hemanthrcore/Bemo-V1) | AI-powered stock analysis system combining value investing with live NSE/BSE data & smart alerts | `Python` `FastAPI` `AI/ML` |
-| [**🎟️ Ticket-bot-extension**](https://github.com/hemanthrcore/Ticket-bot-extension) | Browser extension automating IPL ticket booking — fast, reliable & smart queue-handling | `JavaScript` `Chrome API` |
-| [**🐍 Python Experiments**](https://github.com/hemanthrcore/Python-experiments-college) | Curated Python learning labs: algorithms, data structures, automation & problem-solving | `Python` |
-| [**📋 HackMD Team-14**](https://github.com/hemanthrcore/HackMD-Team-14) | Collaborative project featuring Python case studies on fuel cost algorithms & team exercises | `Python` |
-
-</div>
+| [**🤖 Bemo-V1**](https://github.com/hemanthrcore/Bemo-V1) | AI-powered stock analysis system — value investing + live NSE/BSE data & smart alerts | `Python` `FastAPI` `AI/ML` |
+| [**🎟️ Ticket-bot-extension**](https://github.com/hemanthrcore/Ticket-bot-extension) | Browser extension automating IPL ticket booking — fast, reliable, smart queue-handling | `JavaScript` `Chrome API` |
+| [**🐍 Python Experiments**](https://github.com/hemanthrcore/Python-experiments-college) | Curated Python learning labs: algorithms, data structures, automation & problem solving | `Python` |
+| [**📋 HackMD Team-14**](https://github.com/hemanthrcore/HackMD-Team-14) | Collaborative Python case studies on fuel cost algorithms & team exercises | `Python` |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanthrcore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthrcore&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthrcore&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemanthrcore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanthrcore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthrcore&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthrcore&theme=tokyonight&hide_border=true&background=0D1117" />
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=hemanthrcore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>div>
 
 ---
@@ -108,7 +104,7 @@ fun_fact: "I believe every dataset has a story — I just help it speak."
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthrcore&bg_color=0D1117&color=6AD3F7&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthrcore&bg_color=0D1117&color=6AD3F7&line=0ea5e9&point=ffffff&area=true&hide_border=true" />
 </div>div>
 
 ---
@@ -128,12 +124,9 @@ fun_fact: "I believe every dataset has a story — I just help it speak."
 
 <div align="center">
 
-### 💡 Dev Quote of the Day
+**💡 Dev Quote of the Day**
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<div align="center">
 
 **⭐ If you find my work useful or inspiring, a star goes a long way! ⭐**
 
