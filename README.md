@@ -22,7 +22,7 @@ location: India 🇮🇳
 role: Full Stack Developer & AI Engineer
 
 currently_building:
-  - 🤖 Bemo-V1 → AI stock analysis system (value investing + live Indian market data)
+  - 🤖 Bemo-V1 → AI stock analysis with value investing + live Indian market data
   - 🎟️ Ticket-bot-extension → IPL ticket automation bot
 
 interests:
@@ -81,29 +81,22 @@ fun_fact: "I believe every dataset has a story — I just help it speak."
 
 | 🏷️ Project | 📝 Description | 🔧 Tech |
 |:---:|:---|:---:|
-| [**🤖 Bemo-V1**](https://github.com/hemanthrcore/Bemo-V1) | AI-powered stock analysis system — value investing + live NSE/BSE data & smart alerts | `Python` `FastAPI` `AI/ML` |
-| [**🎟️ Ticket-bot-extension**](https://github.com/hemanthrcore/Ticket-bot-extension) | Browser extension automating IPL ticket booking — fast, reliable, smart queue-handling | `JavaScript` `Chrome API` |
-| [**🐍 Python Experiments**](https://github.com/hemanthrcore/Python-experiments-college) | Curated Python learning labs: algorithms, data structures, automation & problem solving | `Python` |
-| [**📋 HackMD Team-14**](https://github.com/hemanthrcore/HackMD-Team-14) | Collaborative Python case studies on fuel cost algorithms & team exercises | `Python` |
+| [**🤖 Bemo-V1**](https://github.com/hemanthrcore/Bemo-V1) | AI stock analysis — value investing + live NSE/BSE data & smart alerts | `Python` `FastAPI` `AI/ML` |
+| [**🎟️ Ticket-bot-extension**](https://github.com/hemanthrcore/Ticket-bot-extension) | Browser extension for IPL ticket automation — fast & reliable | `JavaScript` `Chrome API` |
+| [**🐍 Python Experiments**](https://github.com/hemanthrcore/Python-experiments-college) | Python learning labs: algorithms, data structures & automation | `Python` |
+| [**📋 HackMD Team-14**](https://github.com/hemanthrcore/HackMD-Team-14) | Collaborative Python case studies on algorithms & team exercises | `Python` |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanthrcore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthrcore&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanthrcore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthrcore&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthrcore&theme=tokyonight&hide_border=true&background=0D1117" />
-<br/>
+<br/><br/>
 <img src="https://github-profile-trophy.vercel.app/?username=hemanthrcore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
+<br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthrcore&bg_color=0D1117&color=6AD3F7&line=0ea5e9&point=ffffff&area=true&hide_border=true" />
 </div>div>
 
